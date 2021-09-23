@@ -47,9 +47,10 @@ This is a list of the rules or general flow of poker, but it also works as a flo
 # TODO:
 - [ ] Create general game logic
     - [x] Get input of how many players and add them to dictionary
+        - [ ] May need to change this to classes
     - [x] Assign players money
-    - [ ] Create dealer, small and big blind references
-    - [ ] Assign ante to blinds
+    - [x] Create dealer, small and big blind references
+    - [x] Assign ante to blinds
     - [x] Shuffle deck
-    - [ ] Choose dealer for first hand
+    - [x] Choose dealer for first hand
     - [ ] Deal the hand
