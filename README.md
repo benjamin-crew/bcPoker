@@ -47,10 +47,18 @@ This is a list of the rules or general flow of poker, but it also works as a flo
 # TODO:
 - [ ] Create general game logic
     - [x] Get input of how many players and add them to dictionary
-        - [ ] May need to change this to classes
+        - [x] May need to change this to classes
     - [x] Assign players money
     - [x] Create dealer, small and big blind references
     - [x] Assign ante to blinds
     - [x] Shuffle deck
     - [x] Choose dealer for first hand
-    - [ ] Deal the hand
+    - [x] Deal the hand
+    - [ ] Implement the betting round (calls, bets, all-in's and folds)
+    - [ ] Deal the flop, turn and river
+    - [ ] Checks for folds
+    - [ ] Update the blind bet after a bet or all-in
+    - [ ] Figure out the all-in rules and implement that
+    - [ ] Design some form of GUI and how that might work
+    - [ ] Create a website to host the game on
+    - [ ] Learn how to allow for multiplayer and how to present cards to particular people
